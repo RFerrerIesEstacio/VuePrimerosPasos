@@ -76,7 +76,7 @@
         error: false,
         persona: {
           nombre: '',
-          persona: '',
+          email: '',
           apellido: '',
         },
       }
